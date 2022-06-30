@@ -1,0 +1,209 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Prince Gabalones
+    tagline: Senior Solutions Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: pgabalones@gmail.com
+    phone: +63 9171389724
+    timezone: Asia/Manila Timezone
+    citizenship:
+    website: #do not add http://
+    linkedin: pgabalones
+    xing:
+    github: pgabalones
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      - idiom: Filipino
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Software Development/Technology
+        link:
+
+      - item: Sneakers/Streetwear
+        link:
+
+      - item: Car tuning/racing
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a Solutions Developer with 3+ years of experience in developing 
+      technical designs and proof of concepts for our Presales Solutions 
+      Consulting team at Zendesk.
+
+      I also worked as a Technical Support Engineer at Zendesk for
+      3.5 years providing resolutions for technical issues related to our
+      multi-product platform. Prior to that, I also worked as a Technical
+      Support Specialist at Zendesk.
+
+      I also have previous job experience in I.T. Service desk at IBM and
+      in Customer Support at Teleperformance.
+
+experiences:
+    - role: Senior Solutions Developer
+      time: Sep 2021 - Present · 10 mos
+      company: Zendesk, Manila
+      details: |
+        Build and maintain reusable and user-friendly assets for Solution 
+        Consultants to cut down time needed for custom development.
+
+        Help translate business rules into detailed requirements and 
+        technical designs. Responsible for developing proof of concepts of 
+        sophisticated business requirements, mapping those to the Zendesk 
+        suite of software solution offerings, and delivering solutions that
+        illustrate their business value.
+
+        Support the Presales team, partnering with Solution Consultants to 
+        help the team throughout the pre-sales cycle, providing technical 
+        solutions and product knowledge to ensure the successful execution 
+        of sales strategy.
+    - role: Solutions Developer
+      time: May 2019 - Sep 2021 · 2 yrs 5 mos
+      company: Zendesk, Manila
+      details: |
+        Help translate business rules into detailed requirements and 
+        technical designs. Responsible for developing proof of concepts of 
+        sophisticated business requirements, mapping those to the Zendesk 
+        suite of software solution offerings, and delivering solutions that
+        illustrate their business value.
+
+        Support the Presales team, partnering with Solution Consultants to 
+        help the team throughout the pre-sales cycle, providing technical 
+        solutions and product knowledge to ensure the successful execution 
+        of sales strategy.
+    - role: Senior Support Engineer
+      time: Jan 2018 - May 2019 · 1 yr 5 mos
+      company: Zendesk, Manila
+      details: |
+        Provide support for all technical queries from customers related to
+        Zendesk’s multi-product platform via live messaging/chat as primary
+        support channel, as well as providing resolution for technical issues
+        escalated by the Technical Support Specialists.
+
+        Support the Advocacy team by:
+         - Handling Critical escalations
+         - Swarming with less experienced colleagues using fundamental 
+         troubleshooting skills to isolate, analyse and provide resolution to
+         customer issues of moderate to high complexity
+         - Being a mentor and an inspiration to the team through continuous
+         professional development, providing coaching, training and feedback to
+         peers where necessary
+    - role: Support Engineer
+      time: Feb 2016 - Jan 2018 · 2 yrs
+      company: Zendesk, Manila
+      details: |
+        Provide support for all technical queries from customers related to
+        Zendesk’s multi-product platform, as well as providing resolution for
+        technical issues escalated by the Technical Support Specialists.
+
+        Support the Advocacy team by:
+         - Handling Critical escalations
+         - Swarming with less experienced colleagues using fundamental 
+         troubleshooting skills to isolate, analyse and provide resolution to
+         customer issues of moderate to high complexity
+         - Being a mentor and an inspiration to the team through continuous
+         professional development, providing coaching, training and feedback to
+         peers where necessary
+    - role: Technical Support Specialist
+      time: Apr 2015 - Feb 2016 · 11 mos
+      company: Zendesk, Manila
+      details: |
+        Act as the first point of contact to provide resolution of all technical
+        queries from customers related to Zendesk’s multi-product and perform
+        initial troubleshooting as needed.
+    
+    - role: Tier 2 Service Desk Analyst
+      time: Sep 2014 - Apr 2015 · 8 mos
+      company: IBM, Manila
+      details: |
+        Diagnose, troubleshoot and provide solutions to complex software and hardware
+        issues escalated by Tier 1 Service Desk Analysts.
+    - role: Tier 1 Service Desk Analyst
+      time: May 2014 - Aug 2014 · 4 mos
+      company: IBM, Manila
+      details: |
+        Act as the first point of contact to diagnose and troubleshoot software and
+        hardware issues of Citibank employees.
+
+    - role: Tier 3 Technical Support Specialist
+      time: Nov 2013 - May 2014 · 7 mos
+      company: Teleperformance, Manila
+      details: |
+        Troubleshoot complex issues with Toshiba laptops, desktops and tablets. Handle
+        escalations from Tier 1 and Tier 2 Technical Support Specialists.
+    - role: Tier 1 Technical Support Specialist
+      time: May 2012 - Oct 2013 · 1 yr 6 mos
+      company: Teleperformance, Manila
+      details: |
+        Troubleshoot issues with Toshiba laptops, desktops and tablets.
+
+publications:
+    title: Certificates
+    papers:
+      - title: Amazon Web Services Developer - Associate
+        link: "https://www.certmetrics.com/amazon/public/download_e_cert.aspx?cert=C3FB15EDAEB807990D50E0AAD5D96136O4AAA4DDEA7FBA94D98737ED189C01778"
+        authors: Amazon Web Services (AWS)
+        conference: Issued Feb 2021
+
+      - title: Zendesk Certified App Developer
+        link: "https://www.credential.net/821281c7-21c0-4c81-ad57-bea621e1cade"
+        authors: Zendesk
+        conference: Issued Jan 2019
+
+      - title: Zendesk Support Administrator
+        link: "https://www.credential.net/47bf9390-2a29-4803-b5a9-70a087c7c960"
+        authors: Zendesk
+        conference: Issued Sep 2017
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Javascript / React JS
+        level: 90%
+
+      - name: Node JS
+        level: 90%
+
+      - name: REST API
+        level: 90%
+
+      - name: Serverless
+        level: 90%
+
+      - name: AWS Services
+        level: 90%
+
+      - name: Zendesk App Framework
+        level: 90%
+
+      - name: SQL
+        level: 90%
+
+      - name: PHP
+        level: 50%
+
+      - name: Ruby / Ruby on Rails
+        level: 50%
