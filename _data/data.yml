@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Prince Gabalones
-    tagline: Senior Solutions Developer
+    tagline: Platform Solutions Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,9 +49,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Solutions Developer with 3+ years of experience in developing 
-      technical designs and proof of concepts for our Presales Solutions 
-      Consulting team at Zendesk.
+      I am a Solutions Engineer/Developer with 5+ years of experience in developing 
+      and implementing technical solutions for both Presales and Postsales teams.
 
       I also worked as a Technical Support Engineer at Zendesk for
       3.5 years providing resolutions for technical issues related to our
@@ -62,75 +61,77 @@ career-profile:
       in Customer Support at Teleperformance.
 
 experiences:
+    - role: Platform Solutions Engineer
+      time: Oct 2022 - Present · 2 yr 2 mo
+      company: Workato, Manila
+      details: |
+        · Support account teams by being the technical expert who can develop rapid automation solutions around high-impact customer use-cases.
+
+        · Technical solutions expert with an aptitude for technical advising, troubleshooting, and analysis. Proficiently communicate technically complex ideas to a non-technical audience.
+
+        · Gather requirements and lead the solution design process jointly with customer-facing Solutions Consultants.
+
+        · Develop capabilities and features based on customer requirements as well as to extend Workato connector capabilities via HTTP and SDK.
+
+        · Work closely with Product and Engineering to review customer requirements and feedback, and identify opportunities for Workato platform enhancements.
+
+        · Accelerate development for roadmap features to address specific customer requirements
+
+        · Improve internal processes, and promote knowledge sharing in the team, by contributing to Workato’s knowledge base
+
     - role: Senior Solutions Developer
       time: Sep 2021 - Present · 10 mos
       company: Zendesk, Manila
       details: |
-        Build and maintain reusable and user-friendly assets for Solution 
+        · Build and maintain reusable and user-friendly assets for Solution 
         Consultants to cut down time needed for custom development.
 
-        Help translate business rules into detailed requirements and 
+        · Help translate business rules into detailed requirements and 
         technical designs. Responsible for developing proof of concepts of 
         sophisticated business requirements, mapping those to the Zendesk 
         suite of software solution offerings, and delivering solutions that
         illustrate their business value.
 
-        Support the Presales team, partnering with Solution Consultants to 
+        · Support the Presales team, partnering with Solution Consultants to 
         help the team throughout the pre-sales cycle, providing technical 
         solutions and product knowledge to ensure the successful execution 
         of sales strategy.
+
     - role: Solutions Developer
       time: May 2019 - Sep 2021 · 2 yrs 5 mos
       company: Zendesk, Manila
       details: |
-        Help translate business rules into detailed requirements and 
+        · Help translate business rules into detailed requirements and 
         technical designs. Responsible for developing proof of concepts of 
         sophisticated business requirements, mapping those to the Zendesk 
         suite of software solution offerings, and delivering solutions that
         illustrate their business value.
 
-        Support the Presales team, partnering with Solution Consultants to 
+        · Support the Presales team, partnering with Solution Consultants to 
         help the team throughout the pre-sales cycle, providing technical 
         solutions and product knowledge to ensure the successful execution 
         of sales strategy.
+
     - role: Senior Support Engineer
       time: Jan 2018 - May 2019 · 1 yr 5 mos
       company: Zendesk, Manila
       details: |
-        Provide support for all technical queries from customers related to
-        Zendesk’s multi-product platform via live messaging/chat as primary
-        support channel, as well as providing resolution for technical issues
-        escalated by the Technical Support Specialists.
+        · Be the expert in handling complex issues and help the team by mentoring
+        and training fellow Technical Support Engineers.
 
-        Support the Advocacy team by:
-         - Handling Critical escalations
-         - Swarming with less experienced colleagues using fundamental 
-         troubleshooting skills to isolate, analyse and provide resolution to
-         customer issues of moderate to high complexity
-         - Being a mentor and an inspiration to the team through continuous
-         professional development, providing coaching, training and feedback to
-         peers where necessary
     - role: Support Engineer
       time: Feb 2016 - Jan 2018 · 2 yrs
       company: Zendesk, Manila
       details: |
-        Provide support for all technical queries from customers related to
+        · Provide support for all technical queries from customers related to
         Zendesk’s multi-product platform, as well as providing resolution for
         technical issues escalated by the Technical Support Specialists.
 
-        Support the Advocacy team by:
-         - Handling Critical escalations
-         - Swarming with less experienced colleagues using fundamental 
-         troubleshooting skills to isolate, analyse and provide resolution to
-         customer issues of moderate to high complexity
-         - Being a mentor and an inspiration to the team through continuous
-         professional development, providing coaching, training and feedback to
-         peers where necessary
     - role: Technical Support Specialist
       time: Apr 2015 - Feb 2016 · 11 mos
       company: Zendesk, Manila
       details: |
-        Act as the first point of contact to provide resolution of all technical
+        · Act as the first point of contact to provide resolution of all technical
         queries from customers related to Zendesk’s multi-product and perform
         initial troubleshooting as needed.
     
@@ -138,30 +139,47 @@ experiences:
       time: Sep 2014 - Apr 2015 · 8 mos
       company: IBM, Manila
       details: |
-        Diagnose, troubleshoot and provide solutions to complex software and hardware
+        · Diagnose, troubleshoot and provide solutions to complex software and hardware
         issues escalated by Tier 1 Service Desk Analysts.
+
     - role: Tier 1 Service Desk Analyst
       time: May 2014 - Aug 2014 · 4 mos
       company: IBM, Manila
       details: |
-        Act as the first point of contact to diagnose and troubleshoot software and
+        · Act as the first point of contact to diagnose and troubleshoot software and
         hardware issues of Citibank employees.
 
     - role: Tier 3 Technical Support Specialist
       time: Nov 2013 - May 2014 · 7 mos
       company: Teleperformance, Manila
       details: |
-        Troubleshoot complex issues with Toshiba laptops, desktops and tablets. Handle
+        · Troubleshoot complex issues with Toshiba laptops, desktops and tablets. Handle
         escalations from Tier 1 and Tier 2 Technical Support Specialists.
+
     - role: Tier 1 Technical Support Specialist
       time: May 2012 - Oct 2013 · 1 yr 6 mos
       company: Teleperformance, Manila
       details: |
-        Troubleshoot issues with Toshiba laptops, desktops and tablets.
+        · Troubleshoot issues with Toshiba laptops, desktops and tablets.
 
 publications:
     title: Certificates
     papers:
+      - title: Automation Pro III Certificate
+        link: "https://verify.skilljar.com/c/39scqgkj6cwh"
+        authors: Workato
+        conference: Issued Nov 2022
+
+      - title: Automation Pro II Certificate
+        link: "https://verify.skilljar.com/c/m7vhtppy6r8p"
+        authors: Workato
+        conference: Issued Nov 2022
+
+      - title: Automation Pro I Certificate
+        link: "https://verify.skilljar.com/c/69hxgoznamok"
+        authors: Workato
+        conference: Issued Nov 2022
+
       - title: Amazon Web Services Developer - Associate
         link: "https://www.certmetrics.com/amazon/public/download_e_cert.aspx?cert=C3FB15EDAEB807990D50E0AAD5D96136O4AAA4DDEA7FBA94D98737ED189C01778"
         authors: Amazon Web Services (AWS)
@@ -181,6 +199,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Zendesk App Framework
+        level: 90%
+
+      - name: Automation/Integration
+        level: 90%
+        
       - name: Javascript / React JS
         level: 90%
 
@@ -190,20 +214,35 @@ skills:
       - name: REST API
         level: 90%
 
+      - name: SDK
+        level: 90%
+
       - name: Serverless
         level: 90%
 
       - name: AWS Services
         level: 90%
 
-      - name: Zendesk App Framework
-        level: 90%
-
       - name: SQL
         level: 90%
 
-      - name: PHP
-        level: 50%
+      - name: Zendesk
+        level: 90%
 
-      - name: Ruby / Ruby on Rails
-        level: 50%
+      - name: Salesforce
+        level: 90%
+
+      - name: SAP
+        level: 90%
+
+      - name: Slack App Development
+        level: 90%
+
+      - name: MS Teams App Development
+        level: 90%
+
+      - name: MS Graph API
+        level: 90%
+
+      - name: MS Azure
+        level: 90%
