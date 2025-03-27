@@ -50,19 +50,13 @@ career-profile:
     title: Career Profile
     summary: |
       I am a Solutions Engineer/Developer with 5+ years of experience in developing 
-      and implementing technical solutions for both Presales and Postsales teams.
+      and implementing technical solutions for both Presales and Professional Services teams.
 
-      I also worked as a Technical Support Engineer at Zendesk for
-      3.5 years providing resolutions for technical issues related to our
-      multi-product platform. Prior to that, I also worked as a Technical
-      Support Specialist at Zendesk.
-
-      I also have previous job experience in I.T. Service desk at IBM and
-      in Customer Support at Teleperformance.
+      I also have 7+ years of experience working in the Technical Support / Service desk industry. 
 
 experiences:
     - role: Platform Solutions Engineer
-      time: Oct 2022 - Present · 2 yr 2 mo
+      time: Oct 2022 - Present · 2 yr 5 mo
       company: Workato, Manila
       details: |
         · Support account teams by being the technical expert who can develop rapid automation solutions around high-impact customer use-cases.
@@ -199,10 +193,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Zendesk App Framework
+      - name: Automation/Integration
         level: 90%
 
-      - name: Automation/Integration
+      - name:  Zendesk App Framework
         level: 90%
         
       - name: Javascript / React JS
