@@ -190,23 +190,53 @@ publications:
         conference: Issued Sep 2017
 
 skills:
-  title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+    toolset:
+      - name: Automation/Integration
+        level: 90%
 
-  - name: Javascript & jQuery
-    level: 98%
+      - name:  Zendesk App Framework
+        level: 90%
+        
+      - name: Javascript / React JS
+        level: 90%
 
-  - name: Angular
-    level: 98%
+      - name: Node JS
+        level: 90%
 
-  - name: HTML5 & CSS
-    level: 95%
+      - name: REST API
+        level: 90%
 
-  - name: Ruby on Rails
-    level: 85%
+      - name: SDK
+        level: 90%
 
-  - name: Sketch & Photoshop
-    level: 60%
+      - name: Serverless
+        level: 90%
+
+      - name: AWS Services
+        level: 90%
+
+      - name: SQL
+        level: 90%
+
+      - name: Zendesk
+        level: 90%
+
+      - name: Salesforce
+        level: 90%
+
+      - name: SAP
+        level: 90%
+
+      - name: Slack App Development
+        level: 90%
+
+      - name: MS Teams App Development
+        level: 90%
+
+      - name: MS Graph API
+        level: 90%
+
+      - name: MS Azure
+        level: 90%
